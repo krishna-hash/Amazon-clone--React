@@ -1,1 +1,1 @@
-# Amazon-clone--React-Firebase
+# Amazon-clone--React
