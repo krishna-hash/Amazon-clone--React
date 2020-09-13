@@ -1,0 +1,16 @@
+.home_img {
+  width: 100%;
+  opacity: 0.6;
+  mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));
+  z-index: -1;
+  margin-bottom: -50px;
+}
+.home {
+  max-width: 1500px;
+  margin: 0 auto 0 auto;
+}
+.home_container {
+  display: flex;
+  z-index: 1;
+  margin: 0 5px 0 5px;
+}
